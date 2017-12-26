@@ -1,8 +1,6 @@
 <?php
 
-use Tests\TestCase;
-
-class DemoTest extends TestCase
+class DemoTest extends PHPUnit_Framework_TestCase
 {
     public function testSomethingIsTrue()
     {
