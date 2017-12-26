@@ -1,5 +1,7 @@
 <?php
 
+use Tests\TestCase;
+
 class DemoTest extends TestCase
 {
     public function testSomethingIsTrue()
